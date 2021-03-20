@@ -2460,9 +2460,8 @@ input, select, textarea {
 			}
 
 				.features1 section .icon {
-					left: 0;
-					position: relative;
-					top: 0;
+					left: 1.5em;
+					top: 2em;
 				}
 
 		}
