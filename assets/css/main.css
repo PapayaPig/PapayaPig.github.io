@@ -2269,8 +2269,8 @@ input, select, textarea {
 				-ms-transform: scale(1);
 				transform: scale(1);
 				position: absolute;
-				left: 3em;
-				top: 3em;
+				left: 1em;
+				top: 1em;
 				opacity: 1;
 			}
 
